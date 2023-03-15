@@ -97,7 +97,7 @@ body {
   }
 
   input[type="radio"]:active + .accordion_img {
-    filter: opacity(10%);
+    opacity: 20%;
     cursor: grab;
   }
 
@@ -231,7 +231,7 @@ body {
   }
 
   input[type="radio"]:active + .accordion_img {
-    filter: opacity(10%);
+    opacity: 20%;
     cursor: grab;
   }
 
@@ -368,7 +368,7 @@ body {
   }
 
   input[type="radio"]:active + .accordion_img {
-    filter: opacity(10%);
+    opacity: 20%;
     cursor: grab;
   }
 
